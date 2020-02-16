@@ -24,6 +24,7 @@ MIT
 ## Author Information
 
 Larry Smith Jr.
-[mrlesmithjr@gmail.com](mailto:mrlesmithjr@gmail.com)
-[http://everythingshouldbevirtual.com](http://everythingshouldbevirtual.com)
-[@mrlesmithjr](https://twitter.com/mrlesmithjr)
+
+- [mrlesmithjr@gmail.com](mailto:mrlesmithjr@gmail.com)
+- [http://everythingshouldbevirtual.com](http://everythingshouldbevirtual.com)
+- [@mrlesmithjr](https://twitter.com/mrlesmithjr)
