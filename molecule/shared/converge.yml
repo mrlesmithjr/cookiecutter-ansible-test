@@ -2,6 +2,6 @@
 - name: Converge
   hosts: all
   tasks:
-    - name: "Include ansible-test-role"
+    - name: "Include cookiecutter-ansible-test"
       include_role:
-        name: "ansible-test-role"
+        name: "cookiecutter-ansible-test"
